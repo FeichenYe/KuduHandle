@@ -1,0 +1,15 @@
+rangeKeyColumn:
+  - range_key
+
+hashKeyColumns:
+  - hash_key1
+  - hash_key2
+  - hash_key3
+
+simpleBaseColumns:
+  - simple_key1
+  - simple_key2
+  - simple_key3
+  - simple_key4
+  - simple_key5
+  - simple_key6

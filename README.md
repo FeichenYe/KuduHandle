@@ -1,2 +1,2 @@
 # KuduHandle
-Encapsulates a Kudu interface class
+一个spark操作kudu的接口
